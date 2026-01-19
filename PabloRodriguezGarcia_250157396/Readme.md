@@ -30,7 +30,9 @@ ThingSpeak is used to visualize:
 - Edge AI confirmation
 - System statistics
 
-
+## ThingSpeak Visualization
+Public channel available at:
+https://thingspeak.mathworks.com/channels/3229333
 
 ## Files
 - `src/`: Arduino source code
