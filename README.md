@@ -31,6 +31,9 @@ ThingSpeak is used to visualize:
 - System statistics
 
 
+## ThingSpeak Visualization
+Public channel available at:
+https://thingspeak.mathworks.com/channels/3229333
 
 ## Files
 - `src/`: Arduino source code
